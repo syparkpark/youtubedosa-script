@@ -1,0 +1,16 @@
+{
+  "name": "youtubedosa-script",
+  "displayName": "youtubedosa script",
+  "version": "1.0.0",
+  "description": "Translate foreign vlog transcripts into Korean commentary scripts and narration for recording.",
+  "author": {
+    "name": "체인저스 캠퍼스"
+  },
+  "keywords": [
+    "korean",
+    "youtube",
+    "script",
+    "translation",
+    "commentary"
+  ]
+}
